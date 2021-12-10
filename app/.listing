@@ -1,0 +1,8 @@
+-rwxr-xr-x   1 moritz   moritz          7 Apr 25  2020 .gitignore
+-rwxr-xr-x   1 moritz   moritz      12183 Apr 25  2020 app.iml
+drwxr-xr-x   7 moritz   moritz       4096 Apr 25  2020 build
+-rwxr-xr-x   1 moritz   moritz        945 Apr 25  2020 build.gradle
+drwxr-xr-x   2 moritz   moritz       4096 Apr 25  2020 libs
+-rwxr-xr-x   1 moritz   moritz        751 Apr 25  2020 proguard-rules.pro
+drwxr-xr-x   2 moritz   moritz       4096 Apr 25  2020 release
+drwxr-xr-x   5 moritz   moritz       4096 Apr 25  2020 src

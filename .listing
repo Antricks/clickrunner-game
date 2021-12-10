@@ -1,0 +1,15 @@
+-rwxr-xr-x   1 moritz   moritz        208 Apr 25  2020 .gitignore
+drwxr-xr-x   5 moritz   moritz       4096 Apr 25  2020 .gradle
+drwxr-xr-x   5 moritz   moritz       4096 Apr 25  2020 .idea
+-rwxr-xr-x   1 moritz   moritz        865 Apr 25  2020 Clickrunner.iml
+drwxr-xr-x   6 moritz   moritz       4096 Apr 25  2020 app
+drwxr-xr-x   3 moritz   moritz       4096 Apr 25  2020 build
+-rwxr-xr-x   1 moritz   moritz        558 Apr 25  2020 build.gradle
+-rwxr-xr-x   1 moritz   moritz       4614 Apr 25  2020 feature_graphic.png
+drwxr-xr-x   3 moritz   moritz       4096 Apr 25  2020 gradle
+-rwxr-xr-x   1 moritz   moritz       1073 Apr 25  2020 gradle.properties
+-rwxr-xr-x   1 moritz   moritz       5296 Apr 25  2020 gradlew
+-rwxr-xr-x   1 moritz   moritz       2260 Apr 25  2020 gradlew.bat
+-rwxr-xr-x   1 moritz   moritz       2268 Apr 25  2020 icon_highres.png
+-rwxr-xr-x   1 moritz   moritz        427 Apr 25  2020 local.properties
+-rwxr-xr-x   1 moritz   moritz         46 Apr 25  2020 settings.gradle
