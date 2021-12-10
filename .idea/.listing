@@ -1,8 +1,0 @@
-drwxr-xr-x   2 moritz   moritz       4096 Apr 25  2020 caches
-drwxr-xr-x   2 moritz   moritz       4096 Apr 25  2020 codeStyles
--rwxr-xr-x   1 moritz   moritz        634 Apr 25  2020 gradle.xml
-drwxr-xr-x   2 moritz   moritz      12288 Apr 25  2020 libraries
--rwxr-xr-x   1 moritz   moritz        357 Apr 25  2020 misc.xml
--rwxr-xr-x   1 moritz   moritz        359 Apr 25  2020 modules.xml
--rwxr-xr-x   1 moritz   moritz        564 Apr 25  2020 runConfigurations.xml
--rwxr-xr-x   1 moritz   moritz      28423 Apr 25  2020 workspace.xml
