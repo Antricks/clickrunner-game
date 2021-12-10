@@ -105,6 +105,7 @@ public class GameActivity extends AppCompatActivity {
                 }
             }
         });
+
         runway_right.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -116,6 +117,7 @@ public class GameActivity extends AppCompatActivity {
                 }
             }
         });
+
         retryButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
